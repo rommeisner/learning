@@ -1,5 +1,8 @@
 {
-	"eightam" = "wakeup",
-	"midday" = "lunch",
+	"sevenam" = "wakeup",
+	"nineam" = "timetowork",
+	"midday" = "lunchtime",
+	"fivepm" = "finishworktime",
+	"sevenpm" = "dinnertime",
 	"midnight" = "timetosleep"
 }
